@@ -1,0 +1,14 @@
+El programa se esta ejecutando...
+Inicio Programa: 27/11/17 11:40:05
+
+sFechaIni: 2017-11-26
+
+sFechaFin: 2017-11-26
+
+Query : SELECT ID_CUMPLE,ID_CUMPLE_RESUMEN,ID_CUMPLIMIENTO_2,ID_RESPONSABLE,ID_TIPO_ORDEN,ID_TIPO_VENTA,ID_CLIENTE_RETIRA,ID_DESC_EMP,ID_TIPOGUI,ID_HORARIO,ID_VENTA_EMPRESA,FECHA_COMPROMISO_EOM,TIPO_CUMPLIMIENTO FROM cumplimiento_kpiweb WHERE 1 = 1 AND fecha_compromiso_eom >= '2017-11-26' AND fecha_compromiso_eom <= '2017-11-26'  
+
+Archivos creados.
+
+Fin Programa: 27/11/17 11:40:05
+
+El programa finalizo.
